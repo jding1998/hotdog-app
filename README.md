@@ -1,1 +1,1 @@
-# hotdog-app
+# hotdog-app-john
